@@ -1,0 +1,23 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+ .right{background-color:#fdfcf9; width: 80%;float: right;height: 3000px;}
+
+ .left{background-color: #bb5d3d;width: 20%;height:100%;position:fixed;
+ 	padding-top: 180px;display: flex;
+ 	flex-direction: column;align-items: center;}
+ 	
+.list li {list-style:none;}
+.list li a{text-decoration: none;color:  #ffffff;font-size: 20px;}
+.image{border-radius: 50%;border: 5px solid;
+  border-color: rgba(255,255,255,0.4);} 
+  
+.one .top{color:#000;
+padding-top: 250px;padding-left: 50px;}
+.one .dawon{padding-left: 300px;padding-top: 50px;display: flex;align-items: center;font-size: 40px;}
+.tow{padding-top: 250px;padding-left: 50px;}
+.three{padding-top: 250px;padding-left: 50px;}
+.four{padding-top: 250px;padding-left: 50px;}
+.four .dawon{padding-left: 200px;padding-top: 50px;font-size: 40px;}
